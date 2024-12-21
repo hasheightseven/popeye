@@ -3,6 +3,6 @@
 
 export default function App() {
     return (
-        <div>ello mastartu</div>
+        <div classname='App'>ello mastartu</div>
     )
 }
