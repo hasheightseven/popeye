@@ -3,7 +3,7 @@ import MAINAPPElement from "./MAINAPPElement.js";
 
 function App() {
     return (
-        <MAINAPPElement className="App" />
+        <MAINAPPElement className="App" ></MAINAPPElement>
     )
 }
 
