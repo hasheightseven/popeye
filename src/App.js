@@ -1,10 +1,12 @@
 import "./App.css";
-import MAINAPPElement from "./MAINAPPElement.js";
+import SVGLogoElement from "./SVGLogoElement.js";
 
 function App() {
     return (
-        <MAINAPPElement className="App" ></MAINAPPElement>
-    )
-}
+        <main className=".App">
+            <SVGLogoElement />
+        </main>
+    );
+};
 
 export default App;
