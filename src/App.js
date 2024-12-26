@@ -1,7 +1,7 @@
 import "./App.css";
 import MAINAPPElement from "./MAINAPPElement.js";
 
-function App {
+function App() {
     return (
         <MAINAPPElement className="App" />
     )
