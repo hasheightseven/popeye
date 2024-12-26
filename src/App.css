@@ -8,3 +8,18 @@
   height: 100vmin;
   background-color: #92112687;
 }
+
+.AppNavbar {
+    height: 10vmin;
+    background-color: 00990026;
+}
+
+.AppDiv {
+    height: inherit;
+    width: inherit;
+}
+
+.AppH2 {
+    font-size: 2.6vmin;
+    color: #abcdef;
+}
