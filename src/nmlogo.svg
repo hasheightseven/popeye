@@ -1,4 +1,4 @@
-<svg xmlns="www.w3.org/2000/svg" width="300px" height="100px">
+<svg xmlns="https://www.w3.org/2000/svg" width="300px" height="300px">
   <path d="M 08 08 L 292 08 L 292 292 L 08 292 Z" stroke="#921126" fill="#950429" stroke-width="1.2vmin"></path>
   <path d="M 26 274 L 126 26 L 150 274 "></path>
 </svg>
