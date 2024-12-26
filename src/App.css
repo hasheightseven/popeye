@@ -8,6 +8,9 @@ html, body {
 }
 
 .App {
+  display: flex;
+  align-items: center;
+  justify-content: center;
   backgound-color: #00000026
 }
 
