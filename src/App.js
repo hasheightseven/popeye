@@ -5,7 +5,7 @@ function App() {
     return (
         <main className=".App">
             <div className=".AppDiv" style={{
-                background-color: #92112608;
+                background-color: #92112608,
                 
                 }}>
                 <nav className=".AppNavbar">
