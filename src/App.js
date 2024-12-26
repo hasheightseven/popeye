@@ -1,8 +1,10 @@
 import "./App.css";
 import MAINAPPElement from "./MAINAPPElement.js";
 
-export default const App = () => {
+function App {
     return (
         <MAINAPPElement className="App" />
     )
 }
+
+export default App;
