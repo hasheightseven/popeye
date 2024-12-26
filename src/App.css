@@ -3,10 +3,12 @@
     padding: 0;
     box-sizing: border-box;
 }
+html, body {
+  background-color: #921126;
+}
 
 .App {
-  height: 100vmin;
-  background-color: #92112687;
+  backgound-color: #00000026
 }
 
 .AppNavbar {
