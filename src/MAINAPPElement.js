@@ -7,5 +7,6 @@ function MAINAPPElement() {
       <SVGLogoElement />
     </main>
   );
-};`
+};
+
 export default MAINAPPElement;
