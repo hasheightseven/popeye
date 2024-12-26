@@ -1,10 +1,8 @@
-import './App.css';
-
+import "./App.css";
+import MAINAPPELEMENT from "./MAINAPPElement.js";
 
 export default function App() {
     return (
-        <MAINAPPElement className='App'>
-            <SVGLogoElement />
-        </MAINAPPElement>
+        <MAINAPPElement className="App" />
     )
 }
