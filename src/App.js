@@ -1,5 +1,5 @@
 import "./App.css";
-import MAINAPPELEMENT from "./MAINAPPElement.js";
+import MAINAPPElement from "./MAINAPPElement.js";
 
 export default function App() {
     return (
