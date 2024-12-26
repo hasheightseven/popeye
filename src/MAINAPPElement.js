@@ -1,7 +1,7 @@
 import React from "react";
 import SVGLogoElement from "./SVGLogoElement.js";
 
-function MAINAPPElement {
+function MAINAPPElement() {
   return (
     <main className=".App">
       <SVGLogoElement />
