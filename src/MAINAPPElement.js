@@ -1,10 +1,11 @@
 import React from "react";
 import SVGLogoElement from "./SVGLogoElement.js";
 
-export default const MAINAPPElement = () => {
+function MAINAPPElement {
   return (
     <main className=".App">
       <SVGLogoElement />
     </main>
   );
 };`
+export default MAINAPPElement;
