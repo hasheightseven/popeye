@@ -4,7 +4,7 @@
     box-sizing: border-box;
 }
 html, body {
-  background-color: #921126;
+  background-color: #92112687;
 }
 
 .App {
@@ -12,6 +12,12 @@ html, body {
   align-items: center;
   justify-content: center;
   backgound-color: #00000026;
+}
+
+.AppOverlay {
+  background-color: #92112608;
+  height: inherit;
+  weight: inherit;
 }
 
 .AppNavbar {
