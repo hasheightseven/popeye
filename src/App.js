@@ -1,5 +1,5 @@
 import "./App.css";
-import SVGLogoElement from "./SVGLogoElement.js";
+//import SVGLogoElement from "./SVGLogoElement.js";
 
 function App() {
     return (
