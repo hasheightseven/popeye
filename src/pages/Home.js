@@ -9,3 +9,7 @@ function Home() {
                 <h1 className="AppLogoHeading">popeye the dev</h1>
             </p>
         </div>
+    );
+}
+
+export default Home;
