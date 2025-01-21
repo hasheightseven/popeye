@@ -4,25 +4,26 @@
     box-sizing: border-box;
 }
 html, body {
-  background-color: #92112687;
+  background-color: #000;
+}
+
+h1 {
+  color: #abcdef87;
 }
 
 .App {
   display: flex;
   align-items: center;
   justify-content: center;
-  backgound-color: #00000026;
 }
 
 .AppOverlay {
-  background-color: #92112608;
   height: inherit;
   weight: inherit;
 }
 
 .AppNavbar {
     height: 10vmin;
-    background-color: #00990026;
 }
 
 .AppDiv {
