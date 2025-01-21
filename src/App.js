@@ -1,11 +1,12 @@
 import "./App.css";
 //import SVGLogoElement from "./SVGLogoElement.js";
-import LogoNM from "./LogoNM.js";
+import Home from "./pages/Home.js";
+
 function App() {
     return (
         <main className="App">
             <div className="AppOverlay">
-                <LogoNM />
+                <Home />
             </div>
         </main>
     );
