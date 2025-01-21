@@ -1,8 +1,10 @@
 import React from "react";
+import LogoNM from "../LogoNM.js";
 
 function Home() {
     return (
         <div className="AppHome">
+            <LogoNM />
             <p className="AppParagraph">welcome!</p>
             <p className="AppParagraph">
                 hi I am 
