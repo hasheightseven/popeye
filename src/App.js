@@ -1,6 +1,6 @@
 import "./App.css";
 //import SVGLogoElement from "./SVGLogoElement.js";
-import "./LogoNM.js";
+import LogoNM from "./LogoNM.js";
 function App() {
     return (
         <main className="App">
