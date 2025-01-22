@@ -1,5 +1,6 @@
 import React from "react";
 import LogoNM from "../LogoNM.js";
+import "../App.css";
 
 function Home() {
     return (

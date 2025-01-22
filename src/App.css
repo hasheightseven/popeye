@@ -38,3 +38,10 @@ h1 {
     font-size: 8vmin;
     color: #abcdef;
 }
+
+.AppHome {
+  background-color: #00000087;
+  width: 100vmin;
+  height: 100vmin;
+  margin: 2.6vmin;
+}
