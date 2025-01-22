@@ -2,11 +2,14 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    color: #abcdef;
 }
 html, body {
   background-color: #000;
 }
-
+title {
+  text-transform: uppercase;
+}
 h1 {
   color: #abcdef87;
 }

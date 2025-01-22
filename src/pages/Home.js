@@ -8,7 +8,7 @@ function Home() {
             <p className="AppParagraph">welcome!</p>
             <p className="AppParagraph">
                 hi I am 
-                <h1 className="AppLogoHeading">popeye the dev</h1>
+                <h1 className="AppLogoHeading">popeye</h1>
             </p>
         </div>
     );
