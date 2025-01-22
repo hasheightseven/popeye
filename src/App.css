@@ -8,44 +8,23 @@ html, body {
   background-color: #000;
 }
 title {
-  text-transform: uppercase;
+  text-transform: capitalize;
 }
-h1 {
-  color: #abcdef87;
-  font-size: 8vmin;
-  letter-spacing: 2.6vmin;
-}
-
 .App {
   display: flex;
   align-items: center;
   justify-content: center;
 }
-
 .AppOverlay {
   height: inherit;
   weight: inherit;
 }
-
-.AppNavbar {
-    height: 10vmin;
-}
-
 .AppDiv {
     height: inherit;
     width: inherit;
 }
-
-.AppH2 {
-    font-size: 8vmin;
-    color: #abcdef;
-}
-
 .AppHome {
   background-color: #00000087;
-  width: 100vmin;
-  height: 100vmin;
-  margin: 2.6vmin;
 }
 
 #logo-line-0 {
