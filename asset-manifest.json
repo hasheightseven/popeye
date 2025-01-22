@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/popeye/static/css/main.9124a553.css",
+    "main.css": "/popeye/static/css/main.96f1bc1c.css",
     "main.js": "/popeye/static/js/main.33cfaf71.js",
     "static/js/453.1d02352b.chunk.js": "/popeye/static/js/453.1d02352b.chunk.js",
     "index.html": "/popeye/index.html",
-    "main.9124a553.css.map": "/popeye/static/css/main.9124a553.css.map",
+    "main.96f1bc1c.css.map": "/popeye/static/css/main.96f1bc1c.css.map",
     "main.33cfaf71.js.map": "/popeye/static/js/main.33cfaf71.js.map",
     "453.1d02352b.chunk.js.map": "/popeye/static/js/453.1d02352b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.9124a553.css",
+    "static/css/main.96f1bc1c.css",
     "static/js/main.33cfaf71.js"
   ]
 }
