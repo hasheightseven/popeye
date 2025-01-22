@@ -47,3 +47,9 @@ h1 {
   height: 100vmin;
   margin: 2.6vmin;
 }
+
+#logo-line-0 {
+  width: 26px;
+  height: 256px;
+  background-color: #92112687;
+}
