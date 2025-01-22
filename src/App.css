@@ -26,7 +26,10 @@ title {
 .AppHome {
   background-color: #00000087;
 }
-
+#logo-popeye {
+  width: 50vmin;
+  height: 26vmin;
+}
 #logo-line-0 {
   width: 26px;
   height: 256px;
