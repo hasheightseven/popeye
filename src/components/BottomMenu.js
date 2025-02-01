@@ -1,5 +1,5 @@
 const BottomMenu = () => {
-    let menuitems = { };
+    let menuitems = { 'fjsks', 'dhsjanhd', 'dishwnjd' };
     
     
     return (
