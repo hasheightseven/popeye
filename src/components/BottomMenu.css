@@ -1,9 +1,10 @@
 .bottom-menu {
   position: fixed;
-  bottom: 8;
+  bottom: 0;
   z-index: 99;
   width: 100vmin;
-  background: #222;
+  height: 8vmin;
+  background: #22266692;
   display: flex;
   justify-content: space-around;
   box-shadow: 0 -2px 10px rgba(0, 0, 0, 0.1);
