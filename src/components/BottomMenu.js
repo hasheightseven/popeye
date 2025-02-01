@@ -5,7 +5,7 @@ const BottomMenu = () => {
     return (
         <div className="BottomMenu">
             <ul className="menu-items">
-                
+                {{ menuitems }}
             </ul>
         </div>
     );
