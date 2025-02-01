@@ -1,5 +1,5 @@
 const BottomMenu = () => {
-    let menuitems = { "ello mastaru", };
+    let menuitems = { };
     
     
     return (
