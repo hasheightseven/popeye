@@ -1,4 +1,4 @@
-import "../App.css";
+//import "../App.css";
 //import LogoPopeye from "../components/LogoPopeye.js";
 //import BottomMenu from "../components/BottomMenu.js";
 
