@@ -34,9 +34,7 @@ jobs:
         run: |
           npm install -g npm@10.9.0
           npm install -g serve
-          npm install -g @babel/plugin-proposal-private-property-in-object
-          npm install -g react-icons, react-router-dom
-          npm install
+          npm install 
 
       # Build the React app
       - name: Build React app
