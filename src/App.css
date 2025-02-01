@@ -54,3 +54,11 @@ html, body {
   bottom: 8vmin;
   border: 0.8vmin solid #00000087;
 }
+.menu-items {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 0.8vmin;
+  background-color: #63728272;
+  
+}
