@@ -22,13 +22,15 @@ export default App;
 import React from "react";
 import { BrowserRouter as Router, Route, Routes } from "react-router-dom";
 import BottomMenu from "./components/BottomMenu";
+import Home from "./pages/Home.js";
 
 const App = () => {
   return (
     <Router>
       <div style={{ paddingBottom: "60px" }}>
         <Routes>
-          <Route path="/" element={<h1>Home Page</h1>} />
+          <Route path="/" element={<h1>Home Page</h1>}>
+            <Home />
           <Route path="/search" element={<h1>Search Page</h1>} />
           <Route path="/add" element={<h1>Add New Item</h1>} />
           <Route path="/notifications" element={<h1>Alerts</h1>} />
