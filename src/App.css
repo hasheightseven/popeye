@@ -46,3 +46,11 @@ html, body {
   height: 256px;
   background-color: #92112687;
 }
+.BottomMenu {
+  width: 80vmin;
+  height: 8vmin;
+  background-color: #ffffff26;
+  position: fixed;
+  bottom: 8vmin;
+  border: 0.8vmin solid #00000087;
+}
