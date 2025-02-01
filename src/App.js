@@ -21,7 +21,7 @@ export default App;
 
 import React from "react";
 import { BrowserRouter as Router, Route, Routes } from "react-router-dom";
-import BottomMenu from "../components/BottomMenu";
+import BottomMenu from "./components/BottomMenu";
 
 const App = () => {
   return (
